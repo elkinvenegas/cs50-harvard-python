@@ -15,7 +15,7 @@ It prints a simple "hello, world!" message to the screen — the traditional fir
 
 ## 🛠️ Technologies
 
-- Python 3.11
+- Python 3.11.9
 - Visual Studio Code
 - Git & GitHub
 
@@ -23,6 +23,7 @@ It prints a simple "hello, world!" message to the screen — the traditional fir
 
 ## ▶️ How to run
 
-```bash
-python hello.py
+To run the program, use the following command in your terminal:
 
+```bash
+python 00-hello/hello.py
