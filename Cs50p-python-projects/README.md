@@ -21,13 +21,37 @@ This simple Python script demonstrates basic syntax and output using the `print(
 
 ## ▶️ How to run
 
-To run the program, use the following command in your terminal:
+To run this program on your machine:
+
+1. **Clone the repository**:
 
 ```bash
-python 00-hello/hello.py
+git clone https://github.com/elkinvenegas/cs50-harvard-python.git
 ```
 
+2. Navigate to the script directory:
+
+```bash
+cd cs50-harvard-python/Cs50p-python-projects/00-hello
+```
+
+3. Run the script:
+
+```bash
+python hello.py
+```
+
+4. **Verify the output**:
+
+You should see:
+```
+Hello, world!
+```
+
+💡 **Note**: If you're using macOS or Linux, you might need to use `python3` instead of `python`. Please ensure you are using **Python 3.x**.
+
+
 ## 📚 What I learned
-- How to create and run a Python script.
-- How to use the `print()` function.
-- Basic Git workflow: commit and push.
+* **Creating and Running Python Scripts:** I gained hands-on experience in setting up and executing a basic Python script.
+* **Utilizing the `print()` Function:** I learned how to use Python's built-in `print()` function to display text output.
+* **Basic Git & GitHub Workflow:** I practiced essential Git commands like `commit` and `push` to manage project versions and collaborate on GitHub.
