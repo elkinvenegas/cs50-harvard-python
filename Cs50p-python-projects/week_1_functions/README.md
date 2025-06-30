@@ -1,5 +1,5 @@
 
-# 💻 CS50 Python Project – Hello, World!
+# 💻 CS50 Python – Week 1: Hello, World!
 
 This simple Python script demonstrates basic syntax and output using the `print()` function. It serves as the foundational step for understanding text output in Python.
 
@@ -32,7 +32,7 @@ git clone https://github.com/elkinvenegas/cs50-harvard-python.git
 2. Navigate to the script directory:
 
 ```bash
-cd cs50-harvard-python/Cs50p-python-projects/00-hello
+cd cs50-harvard-python/Cs50p-python-projects/week_1_functions
 ```
 
 3. Run the script:
@@ -52,6 +52,6 @@ Hello, world!
 
 
 ## 📚 What I learned
-* **Creating and Running Python Scripts:** I gained hands-on experience in setting up and executing a basic Python script.
+* **Creating and Running Python Scripts:** I gained hands-on experience in setting up and executing a basic Python script as part of Week 1 of the CS50 Python course.
 * **Utilizing the `print()` Function:** I learned how to use Python's built-in `print()` function to display text output.
 * **Basic Git & GitHub Workflow:** I practiced essential Git commands like `commit` and `push` to manage project versions and collaborate on GitHub.
