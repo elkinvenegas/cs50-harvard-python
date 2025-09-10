@@ -55,3 +55,5 @@ Hello, world!
 * **Creating and Running Python Scripts:** I gained hands-on experience in setting up and executing a basic Python script as part of Week 1 of the CS50 Python course.
 * **Utilizing the `print()` Function:** I learned how to use Python's built-in `print()` function to display text output.
 * **Basic Git & GitHub Workflow:** I practiced essential Git commands like `commit` and `push` to manage project versions and collaborate on GitHub.
+
+# Test
